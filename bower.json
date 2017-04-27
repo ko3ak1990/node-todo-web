@@ -1,0 +1,22 @@
+{
+  "name": "node-todo-web",
+  "description": "Front-end",
+  "main": "index.js",
+  "authors": [
+    "Ievgen Umanets"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/ko3ak1990/node-todo-web",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "css-ripple-effect": "^1.0.8",
+    "masonry": "^4.2.0"
+  }
+}

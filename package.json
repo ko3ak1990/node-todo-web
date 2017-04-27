@@ -1,0 +1,23 @@
+{
+  "name": "node-todo-web",
+  "version": "1.0.0",
+  "description": "Front-end",
+  "main": "index.js",
+  "dependencies": {
+    "css-ripple-effect": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ko3ak1990/node-todo-web.git"
+  },
+  "author": "Ievgen Umanets",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ko3ak1990/node-todo-web/issues"
+  },
+  "homepage": "https://github.com/ko3ak1990/node-todo-web#readme"
+}
